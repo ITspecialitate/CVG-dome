@@ -1,0 +1,64 @@
+body {
+    background-color: #fff;
+  }
+
+
+  header {
+    /* background: url('/images/cvg.jpg'); */
+    background-color: #821e3f;
+  }
+
+  .t {
+    font-size: 50px;
+    color: #fff;
+    background:
+        linear-gradient(217deg, rgba(130,30,63,0.8), rgba(0,0,0,0) 70.71%),
+        linear-gradient(127deg, rgba(30,130,97,0.8), rgba(0,0,0,0) 70.71%),
+        linear-gradient(336deg, rgba(130,30,63,0.8), rgba(0,0,0,0) 70.71%);
+  }
+  .d {
+    color: red;
+    font-weight: bold;
+  }
+
+  .ds {
+    width: 50%;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: #821e3f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  nav li a:hover {
+    color: #fff;
+    background-color: #111;
+  }
+
+  nav .active {
+    color: #fff;
+    background-color: #821e3f;
+  }
+
+  footer {
+    background-color: #821e3f;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }

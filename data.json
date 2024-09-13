@@ -1,0 +1,47 @@
+[
+    {
+       "id": 1,
+       "img": "./images/fuksi.jpeg",
+       "name": "Fukšu nedēļa",
+       "date": "30.09. līdz 4.10",
+       "description": "Fukšu nedēļa ir īpašs pasākums, kas veltīts jaunpienācēju iepazīšanai un integrācijai skolā vai organizācijā. Šīs nedēļas laikā mēs piedāvāsim dažādas aktivitātes un pasākumus, lai palīdzētu jaunajiem dalībniekiem iejusties un ātri kļūt par daļu no komandas."
+       
+    },
+    {
+       "id": 2,
+       "img": "",
+       "name": "",
+       "date": "",
+       "description": ""
+       
+    },
+    {
+       "id": 3,
+       "img": "",
+       "name": "",
+       "date": "",
+       "description": ""
+    },
+    {
+       "id": 4,
+       "img": "",
+       "name": "",
+       "date": "",
+       "description": ""
+    },
+    {
+       "id": 5,
+       "img": "",
+       "name": "",
+       "date": "",
+       "description": ""
+    },
+    {
+       "id": 6,
+       "img": "",
+       "name": "",
+       "date": "",
+       "description": ""
+       
+    }
+ ]

@@ -1,0 +1,100 @@
+/* Global styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #821e3f;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav {
+    float: left;
+    width: 200px;
+    height: 150px;
+    background-color: #1e3f82;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    padding: 8px;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+nav ul li a:hover {
+    background-color: #575757;
+}
+
+main {
+    margin-left: 220px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #821e3f;
+    text-align: center;
+    padding: 1rem;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    color: #fff;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+/* Paragraphs */
+p {
+    color: #000000;
+    line-height: 1.6;
+}
+
+.d {
+    color: #ff0000;
+}
+
+.t {
+    color: #fff;
+}
+
+/* Unordered list */
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: disc;
+}
+
+ul li {
+    margin: 0.5rem 0;
+}
