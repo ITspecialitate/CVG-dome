@@ -49,8 +49,9 @@ footer {
     background-color: #821e3f;
     text-align: center;
     padding: 1rem;
-    bottom: 0;
-    width: 100%;
+    position: fixed;
+    bottom: 0; 
+    width: 100%; 
 }
 
 footer p {
